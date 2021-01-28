@@ -1,4 +1,8 @@
 # codeRefactor
-![Screenshot](Screenshot 124338.png)
-![Screenshot](Screenshot 124928.png)
-![Screenshot](Screenshot 124928.png)
+# screenshots:
+
+![](https://github.com/KevinFloris20/codeRefactor/blob/main/Screenshot%20124338.png)
+
+![](https://github.com/KevinFloris20/codeRefactor/blob/main/Screenshot%20124928.png)
+
+![](https://github.com/KevinFloris20/codeRefactor/blob/main/Screenshot%20124949.png)
